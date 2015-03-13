@@ -8,9 +8,6 @@ def main():
 
    for i in range(1, 101):
       sumSquared+=i
-      i+=1
-   
-   for i in range(1, 101):
       squaresSum+= i**2  
       i+=1
 
