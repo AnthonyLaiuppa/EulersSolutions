@@ -13,3 +13,5 @@ So far I have taken my approach to solving problems
 - [x] 6 Sum Square Difference
 - [x] 7 10001st Prime
 - [x] 8 Largest Product in a series
+- [ ] 9 Special Pythagorean Triplet
+- [x] 10 Summation of Primes
