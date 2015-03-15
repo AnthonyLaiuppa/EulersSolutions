@@ -8,7 +8,7 @@ def isPal(n):
 
 #Big loop of multiplication
 def findPals():
-
+    
     pals=[]
     for k in range(100,999):
         for j in range(100,999):
